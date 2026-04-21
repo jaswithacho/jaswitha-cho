@@ -12,7 +12,7 @@ text🤖 Multi-Agent Systems     ███████████████�
 
 📊 Impact at a Glance
 Metric  -  Result
-🔻 Inference cost reduction~30% via vLLM + QLoRA on AWS EKS
+🔻  Inference cost reduction ~30% via vLLM + QLoRA on AWS EKS
 📈 Retrieval relevance improvement~40% with hybrid RAG + reranking
 ⚡ Model deployment cycleDays → Under 2 hours via MLOps pipelines
 🎯 Financial QA accuracy gain~25% via few-shot + CoT prompt engineering
