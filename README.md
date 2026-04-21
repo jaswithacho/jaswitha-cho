@@ -11,7 +11,12 @@ text🤖 Multi-Agent Systems     ███████████████�
 🔬 ML & NLP                ██████████████          PyTorch · XGBoost · BERT · HuggingFace
 
 📊 Impact at a Glance
-MetricResult🔻 Inference cost reduction~30% via vLLM + QLoRA on AWS EKS📈 Retrieval relevance improvement~40% with hybrid RAG + reranking⚡ Model deployment cycleDays → Under 2 hours via MLOps pipelines🎯 Financial QA accuracy gain~25% via few-shot + CoT prompt engineering👥 Users servedMillions at 10K+ RPS in production
+Metric  -  Result
+🔻 Inference cost reduction~30% via vLLM + QLoRA on AWS EKS
+📈 Retrieval relevance improvement~40% with hybrid RAG + reranking
+⚡ Model deployment cycleDays → Under 2 hours via MLOps pipelines
+🎯 Financial QA accuracy gain~25% via few-shot + CoT prompt engineering
+👥 Users servedMillions at 10K+ RPS in production
 
 🔨 Tech Stack
 Programming: Python, SQL, Bash, C
